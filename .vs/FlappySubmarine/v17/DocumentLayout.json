@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i2016\\FlappySubmarine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\assets\\scriptes\\model\\explodespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\explodespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\enemys\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\enemys\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\objectpulltorpedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpulltorpedos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\player\\playerattaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\player\\playerattaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\attaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\attaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\enemys\\enemyattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\enemys\\enemyattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\assets\\scriptes\\model\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D5B71-3767-C1C0-9205-7A220D11A384}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAttaker.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Player\\PlayerAttaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Player\\PlayerAttaker.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Player\\PlayerAttaker.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Player\\PlayerAttaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:31:37.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectPullTorpedos.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ObjectPullTorpedos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPullTorpedos.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ObjectPullTorpedos.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPullTorpedos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:20:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectPull.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ObjectPull.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPull.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ObjectPull.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPull.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:18:11.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attaker.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Attaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Attaker.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Attaker.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Attaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:59:35.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Enemys\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Enemys\\EnemySpawner.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:31:21.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerSubmarine.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\PlayerSubmarine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\PlayerSubmarine.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\PlayerSubmarine.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\PlayerSubmarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:24:42.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Submarine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Submarine.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Submarine.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Submarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:16:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemySubmarine.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemySubmarine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Enemys\\EnemySubmarine.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemySubmarine.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Enemys\\EnemySubmarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:14:08.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\CollisionHandler.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\CollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:12:54.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExplodeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ExplodeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ExplodeSpawner.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ExplodeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ExplodeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:58:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreCounter.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ScoreCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ScoreCounter.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\ScoreCounter.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ScoreCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:56:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyAttacker.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemyAttacker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Enemys\\EnemyAttacker.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Enemys\\EnemyAttacker.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Enemys\\EnemyAttacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:59:18.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Torpedo.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Torpedo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Torpedo.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\Assets\\Scriptes\\Model\\Torpedo.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Torpedo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:48:08.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
