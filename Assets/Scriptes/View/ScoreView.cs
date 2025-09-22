@@ -8,15 +8,15 @@ public class ScoreView : MonoBehaviour
 
     private void OnEnable()
     {
-        _score.Changed += Change;
+        _score.Changed += UpdateScoreText;
     }
 
     private void OnDisable()
     {
-        _score.Changed -= Change;
+        _score.Changed -= UpdateScoreText;
     }
 
-    private void Change(int score)
+    private void UpdateScoreText(int score)
     {
         _scoreText.text = score.ToString();
     }

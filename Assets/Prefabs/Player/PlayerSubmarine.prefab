@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 4752171919688495032}
   - component: {fileID: 9042841206480566278}
   - component: {fileID: 5330761481551806074}
+  - component: {fileID: 5892621686759664820}
   m_Layer: 6
   m_Name: PlayerSubmarine
   m_TagString: Untagged
@@ -34,8 +35,8 @@ Transform:
   m_GameObject: {fileID: 2271002787254970370}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.3, y: 1.19, z: 0}
-  m_LocalScale: {x: -2.0807252, y: 5.3478, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: -2, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -110,7 +111,7 @@ MonoBehaviour:
   _inputReader: {fileID: 0}
   _mover: {fileID: 3023593798319657290}
   _attacker: {fileID: 2440544752082024845}
-  _collisonHandler: {fileID: 4752171919688495032}
+  _collisionHandler: {fileID: 4752171919688495032}
   _health: {fileID: 5330761481551806074}
 --- !u!50 &6891715841732478257
 Rigidbody2D:
@@ -172,7 +173,8 @@ MonoBehaviour:
   TorpedoSpeed: 4
   Direction: {x: 1, y: 0}
   Delay: 2
-  LayerNumber: 6
+  TargetLayer: 6
+  _canAttack: 1
 --- !u!70 &8262112510908818116
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -207,8 +209,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.97999996, y: 0.22999999}
+  m_Offset: {x: 0, y: -0.03}
+  m_Size: {x: 0.85, y: 0.11}
   m_Direction: 1
 --- !u!114 &4752171919688495032
 MonoBehaviour:
@@ -246,5 +248,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6726ce26c845e6459599f2bc9691db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _exploder: {fileID: 5892621686759664820}
   _maxCountLives: 3
   _currentCountLives: 0
+--- !u!114 &5892621686759664820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271002787254970370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87195415653be1d40bd3a74c887337e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _pullExplosion: {fileID: 0}

@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\core\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\core\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\effects\\explode\\smallexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\effects\\explode\\smallexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\effects\\explode\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\effects\\explode\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\effects\\explode\\bigexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\effects\\explode\\bigexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\core\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\core\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\objectpools\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\effects\\explode\\baseexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\effects\\explode\\baseexplode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\objectpools\\objectpullexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpullexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\view\\survivaltimeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\view\\survivaltimeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\view\\health\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\view\\health\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\view\\health\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\view\\health\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerSubmarine.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:05:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreCounter.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Core\\ScoreCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Core\\ScoreCounter.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Core\\ScoreCounter.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Core\\ScoreCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:42:06.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmallExplode.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\SmallExplode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Effects\\Explode\\SmallExplode.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\SmallExplode.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Effects\\Explode\\SmallExplode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:20:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectPull.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:18:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectPullExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullExplosion.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullExplosion.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullExplosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:18:07.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Core\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Core\\Timer.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Core\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Core\\Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:07:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseExplode.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\BaseExplode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Effects\\Explode\\BaseExplode.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\BaseExplode.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Effects\\Explode\\BaseExplode.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:54:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exploder.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\Exploder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Effects\\Explode\\Exploder.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\Exploder.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Effects\\Explode\\Exploder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:54:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BigExplode.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\BigExplode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Effects\\Explode\\BigExplode.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Effects\\Explode\\BigExplode.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Model\\Effects\\Explode\\BigExplode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:54:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SurvivalTimeView.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\SurvivalTimeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\View\\SurvivalTimeView.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\SurvivalTimeView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\View\\SurvivalTimeView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:39:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthView.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\Health\\HealthView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\View\\Health\\HealthView.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\Health\\HealthView.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\View\\Health\\HealthView.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:52:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameOverMenu.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\Health\\GameOverMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\View\\Health\\GameOverMenu.cs",
+              "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\View\\Health\\GameOverMenu.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\View\\Health\\GameOverMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:52:05.012Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

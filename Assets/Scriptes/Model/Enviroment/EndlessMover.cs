@@ -5,11 +5,11 @@ public class EndlessMover : MonoBehaviour
 {
     [SerializeField] private List<Transform> _backgrounds = new List<Transform>();
 
-    [SerializeField] private float _startPositionX;
-    [SerializeField] private float _endPositionX;
+    [SerializeField] private float _loopStartX;
+    [SerializeField] private float _loopEndX;
     [SerializeField] private float _speed;
 
-    private List<Vector2> _restartPosition = new List<Vector2>();
+    private List<Vector2> _restartPositions = new List<Vector2>();
 
     private float _direction = -1;
 
@@ -17,7 +17,7 @@ public class EndlessMover : MonoBehaviour
     {
         for (int i = 0; i < _backgrounds.Count; i++)
         {
-            _backgrounds[i].position = _restartPosition[i];
+            _backgrounds[i].position = _restartPositions[i];
         }
     }
 
@@ -25,7 +25,7 @@ public class EndlessMover : MonoBehaviour
     {
         foreach (Transform background in _backgrounds)
         {
-            _restartPosition.Add(background.position);
+            _restartPositions.Add(background.position);
         }    
     }
 
@@ -36,12 +36,12 @@ public class EndlessMover : MonoBehaviour
 
     private void Move()
     {
-        foreach (Transform border in _backgrounds)
+        foreach (Transform background in _backgrounds)
         {
-            border.Translate(_direction * _speed * Time.deltaTime, 0, 0);
+            background.Translate(_direction * _speed * Time.deltaTime, 0, 0);
 
-            if (border.position.x <= _endPositionX)
-                border.position = new Vector3(_startPositionX, border.position.y, border.position.z);
+            if (background.position.x <= _loopEndX)
+                background.position = new Vector3(_loopStartX, background.position.y, background.position.z);
         }
     }
 }

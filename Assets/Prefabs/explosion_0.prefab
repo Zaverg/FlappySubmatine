@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _timer: {fileID: 6345716266363426140}
-  _second: 1.5
+  _duration: 1
 --- !u!114 &6345716266363426140
 MonoBehaviour:
   m_ObjectHideFlags: 0
