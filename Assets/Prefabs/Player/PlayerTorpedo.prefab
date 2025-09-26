@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: -3321082800597524752}
   - component: {fileID: 226997061754838378}
   - component: {fileID: 8833450322128157680}
+  - component: {fileID: 1667943202092106613}
   m_Layer: 0
   m_Name: PlayerTorpedo
   m_TagString: Untagged
@@ -31,7 +32,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.5, y: 1.02, z: 0}
-  m_LocalScale: {x: -1.1276999, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -116,7 +117,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _damage: 1
-  _exlode: {fileID: -1759976920309671132, guid: 7c7ae334b3f46b2448243e182a0e8e3f, type: 3}
 --- !u!50 &226997061754838378
 Rigidbody2D:
   serializedVersion: 5
@@ -181,3 +181,16 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.94, y: 0.17}
   m_Direction: 1
+--- !u!114 &1667943202092106613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119170003007607686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87195415653be1d40bd3a74c887337e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _pullExplosion: {fileID: 0}

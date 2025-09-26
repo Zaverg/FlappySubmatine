@@ -7,8 +7,6 @@ public class ObjectPull<T> : MonoBehaviour where T: Component, IReleasable
     private Queue<T> _pool;
     private List<T> _allObjects = new List<T>();
 
-    public IEnumerable<T> ObjectPool => _pool;
-
     public void Reset()
     {
         for (int i = _allObjects.Count - 1; i >= 0; i--)

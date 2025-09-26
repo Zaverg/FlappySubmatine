@@ -28,12 +28,12 @@ public class HealthView : MonoBehaviour
 
     private void OnEnable()
     {
-        _health.HealthChanged += ChangeView;
+        _health.Changed += ChangeView;
     }
 
     private void OnDisable()
     {
-        _health.HealthChanged -= ChangeView;
+        _health.Changed -= ChangeView;
     }
 
     private void ChangeView(float currentLives)

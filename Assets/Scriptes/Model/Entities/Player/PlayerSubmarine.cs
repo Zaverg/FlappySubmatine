@@ -8,11 +8,18 @@ public class PlayerSubmarine : Submarine, IInteractable
     [SerializeField] private CollisionHandler _collisionHandler;
     [SerializeField] private Health _health;
 
-    private void Awake()
+    private void OnEnable()
     {
         _inputReader.Moving += _mover.Move;
         _inputReader.Attack += _attacker.Attack;
         _collisionHandler.CollisionDetected += ProcessCollision;
+    }
+
+    private void OnDisable()
+    {
+        _inputReader.Moving -= _mover.Move;
+        _inputReader.Attack -= _attacker.Attack;
+        _collisionHandler.CollisionDetected -= ProcessCollision;
     }
 
     protected override void ProcessCollision(IInteractable interactable)

@@ -14,14 +14,21 @@ public class Torpedo : MonoBehaviour, IReleasable, IInteractable
     public float Damage => _damage;
 
     public event Action<IReleasable> Released;
-    public event Action<Torpedo, IInteractable> Hit;
 
     private void Awake()
     {
         _collisionHandler = GetComponent<CollisionHandler>();
         _exploder = GetComponent<Exploder>();
+    }
 
+    private void OnEnable()
+    {
         _collisionHandler.CollisionDetected += Explode;
+    }
+
+    private void OnDisable()
+    {
+        _collisionHandler.CollisionDetected -= Explode;
     }
 
     private void Update()
@@ -36,16 +43,32 @@ public class Torpedo : MonoBehaviour, IReleasable, IInteractable
 
     private void Explode(IInteractable interactable)
     {
-        Hit?.Invoke(this, interactable);
         _exploder.Spawn();
         Released?.Invoke(this);
     }
 
-    public void SetParams(float speed, Vector2 direction)
+    public void SetParams(float speed, Vector2 direction, float rotationY)
     {
         _speed = speed;
         _direction = direction;
 
-        transform.localScale = new Vector3(_direction.x > 0 ? -1 : 1, transform.localScale.y, transform.localScale.z);
+        transform.Rotate(transform.localRotation.x, rotationY, transform.localRotation.z);
+    }
+
+    public void Subscribe(Delegate _scoreCounter)
+    {
+        if (_scoreCounter is Action<IInteractable>)
+            _collisionHandler.CollisionDetected += _scoreCounter as Action<IInteractable>;
+    }
+
+    public void UnSubscribe(Delegate _scoreCounter)
+    {
+        if (_scoreCounter is Action<IInteractable>)
+            _collisionHandler.CollisionDetected -= _scoreCounter as Action<IInteractable>;
+    }
+
+    public void SetObjectPullExplosion(ObjectPullExplosion objectPullExplosion)
+    {
+        _exploder.SetExplosionPool(objectPullExplosion);
     }
 }

@@ -8,6 +8,7 @@ public abstract class Attacker : MonoBehaviour
     [SerializeField] protected Vector2 Direction;
     [SerializeField] protected float Delay;
     [SerializeField] protected int TargetLayer;
+    [SerializeField] protected float ProjectileRotation;
 
     protected Torpedo Torpedo;
 
@@ -22,6 +23,6 @@ public abstract class Attacker : MonoBehaviour
 
         Torpedo.gameObject.layer = TargetLayer;
 
-        Torpedo.SetParams(TorpedoSpeed, Direction);
+        Torpedo.SetParams(TorpedoSpeed, Direction, ProjectileRotation);
     }
 }

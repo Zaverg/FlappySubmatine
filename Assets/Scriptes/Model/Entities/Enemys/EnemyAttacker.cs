@@ -12,12 +12,7 @@ public class EnemyAttacker : Attacker
         Timer.Run(Delay);
     }
 
-    public override void Attack()
-    {
-        base.Attack();
-    }
-
-    public void SetParams(ObjectPullTorpedoes objectPullTorpedoes)
+    public void SetObjectPullTorpedoes(ObjectPullTorpedoes objectPullTorpedoes)
     {
         ObjectPull = objectPullTorpedoes; 
     }

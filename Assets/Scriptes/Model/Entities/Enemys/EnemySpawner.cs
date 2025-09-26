@@ -4,9 +4,7 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] private ObjectPullEnemy _objectPull;
-    [SerializeField] private ObjectPullTorpedoes _objectPullTorpedoes;
-    [SerializeField] private ObjectPullExplosion _objectPullExplosion;
-
+  
     [SerializeField] private float _upperLimit;
     [SerializeField] private float _lowerLimit;
     [SerializeField] private float _enemySpeed;
@@ -17,12 +15,8 @@ public class EnemySpawner : MonoBehaviour
 
     public void StartSpawn()
     {
-        _coroutine = StartCoroutine(Spawn());
-    }
-
-    public void StopSpawn()
-    {
-        StopCoroutine(_coroutine);
+        if (_coroutine == null)
+            _coroutine = StartCoroutine(Spawn());
     }
 
     private IEnumerator Spawn()
@@ -32,11 +26,8 @@ public class EnemySpawner : MonoBehaviour
         while (enabled)
         {
             EnemySubmarine enemy = _objectPull.GetObject();
-            enemy.gameObject.SetActive(true);
+            enemy.SetParams(_enemySpeed);
             enemy.transform.position = new Vector3(transform.position.x, Random.Range(_lowerLimit, _upperLimit), transform.position.z);
-            enemy.GetComponent<EnemyAttacker>().SetParams(_objectPullTorpedoes);
-            enemy.GetComponent<EnemyMover>().SetParams(_enemySpeed);
-            enemy.GetComponent<Exploder>().SetExplosionPool(_objectPullExplosion);
             
             yield return waitForSeconds;
         }

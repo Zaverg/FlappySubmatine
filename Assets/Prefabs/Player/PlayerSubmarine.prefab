@@ -171,9 +171,10 @@ MonoBehaviour:
   Timer: {fileID: 9042841206480566278}
   ObjectPull: {fileID: 0}
   TorpedoSpeed: 4
-  Direction: {x: 1, y: 0}
+  Direction: {x: -1, y: 0}
   Delay: 2
   TargetLayer: 6
+  ProjectileRotation: 180
   _canAttack: 1
 --- !u!70 &8262112510908818116
 CapsuleCollider2D:

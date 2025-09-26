@@ -58,14 +58,14 @@ public class Game : MonoBehaviour
     {
         _gameOverMenu.Restarted += Reset;
         _mainMenu.StartGame += StartGame;
-        _playerHealth.GameOver += LoseGame;
+        _playerHealth.Over += LoseGame;
     }
 
     private void OnDisable()
     {
         _gameOverMenu.Restarted -= Reset;
         _mainMenu.StartGame -= StartGame;
-        _playerHealth.GameOver -= LoseGame;
+        _playerHealth.Over -= LoseGame;
     }
 
     private void LoseGame()

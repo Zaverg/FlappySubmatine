@@ -10,8 +10,8 @@ public class Health : MonoBehaviour
     public float MaxCountLives => _maxCountLives;
     public float CurrentCountLives => _currentCountLives;
 
-    public event Action<float> HealthChanged;
-    public event Action GameOver;
+    public event Action<float> Changed;
+    public event Action Over;
 
     public void Reset()
     {
@@ -27,12 +27,12 @@ public class Health : MonoBehaviour
     {
         _currentCountLives = Mathf.Max(_currentCountLives - damage, 0);
 
-        HealthChanged?.Invoke(_currentCountLives);
+        Changed?.Invoke(_currentCountLives);
 
         if (_currentCountLives <= 0)
         {
             _exploder.Spawn();
-            GameOver?.Invoke();
+            Over?.Invoke();
         }
     }
 }

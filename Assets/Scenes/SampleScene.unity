@@ -150,6 +150,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _object: {fileID: 8248660542121909978, guid: b76bf719fb2e89a4d9b6fba70892674f, type: 3}
+  _objectPullTorpedoes: {fileID: 968191524}
+  _objectPullExplosion: {fileID: 1199791080}
 --- !u!114 &127146571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -163,8 +165,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _objectPull: {fileID: 127146570}
-  _objectPullTorpedoes: {fileID: 968191524}
-  _objectPullExplosion: {fileID: 1199791080}
   _upperLimit: 9
   _lowerLimit: -9
   _enemySpeed: 2
