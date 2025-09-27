@@ -8,9 +8,8 @@ public class ObjectPullTorpedoes : ObjectPull<Torpedo>
     public override Torpedo GetObject()
     {
         Torpedo torpedo = base.GetObject();
-        AddScoreCounter addScoreCounter = _scoreCounter.AddScoreForEnemy;
 
-        torpedo.Subscribe(addScoreCounter);
+        torpedo.CollisionHandler.CollisionDetected += _scoreCounter.AddScoreForEnemy;
         torpedo.SetObjectPullExplosion(_objectPullExplosion);
 
         return torpedo;
@@ -19,13 +18,8 @@ public class ObjectPullTorpedoes : ObjectPull<Torpedo>
     public override void PutObject(IReleasable released)
     {
         Torpedo torpedo = released as Torpedo;
-        AddScoreCounter addScoreCounter = _scoreCounter.AddScoreForEnemy;
-
-        torpedo.UnSubscribe(addScoreCounter);
+        torpedo.CollisionHandler.CollisionDetected -= _scoreCounter.AddScoreForEnemy;
 
         base.PutObject(released);
     }
-
-    public delegate void AddScoreCounter(IInteractable interactable);
 }
-

@@ -3,43 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\projectiles\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\projectiles\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\objectpools\\objectpullenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\objectpools\\objectpullenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpullenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\enemys\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\objectpools\\objectpulltorpedoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpulltorpedoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\player\\playersubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\objectpools\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\enemys\\enemysubmarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\objectpools\\objectpulltorpedoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\objectpools\\objectpulltorpedoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemyattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\projectiles\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\projectiles\\torpedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\enemys\\enemyattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\enemys\\enemyattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\attacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\attacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\attacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|c:\\users\\i2016\\flappysubmarine\\flappysubmatine\\assets\\scriptes\\model\\entities\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\assets\\scriptes\\model\\entities\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCD9E0C-621D-2E72-1D19-F8070CBD29C1}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\model\\entities\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,50 +90,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ObjectPullEnemy.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullEnemy.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullEnemy.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T08:53:57.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySpawner.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySpawner.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T06:52:53.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EnemySubmarine.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySubmarine.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySubmarine.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySubmarine.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemySubmarine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAoAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T06:51:29.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerSubmarine.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Entities\\Player\\PlayerSubmarine.cs",
@@ -146,39 +146,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ObjectPull.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPull.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T10:18:12.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Torpedo.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Projectiles\\Torpedo.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\Projectiles\\Torpedo.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\Projectiles\\Torpedo.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Projectiles\\Torpedo.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T08:38:31.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ObjectPullTorpedoes.cs",
               "DocumentMoniker": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullTorpedoes.cs",
               "RelativeDocumentMoniker": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullTorpedoes.cs",
               "ToolTip": "C:\\Users\\i2016\\FlappySubmarine\\FlappySubmatine\\Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullTorpedoes.cs",
               "RelativeToolTip": "Assets\\Scriptes\\Model\\ObjectPools\\ObjectPullTorpedoes.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T06:31:26.324Z",
               "EditorCaption": ""
@@ -193,8 +193,7 @@
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Enemys\\EnemyAttacker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T06:59:11.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T06:59:11.502Z"
             },
             {
               "$type": "Document",
@@ -206,8 +205,7 @@
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Attacker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T06:50:39.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T06:50:39.087Z"
             },
             {
               "$type": "Document",
@@ -219,8 +217,7 @@
               "RelativeToolTip": "Assets\\Scriptes\\Model\\Entities\\Player\\Health.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:34:09.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T08:34:09.877Z"
             },
             {
               "$type": "Document",
@@ -328,8 +325,7 @@
               "RelativeToolTip": "Assets\\Scriptes\\View\\Health\\HealthView.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:52:14.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T10:52:14.958Z"
             },
             {
               "$type": "Document",

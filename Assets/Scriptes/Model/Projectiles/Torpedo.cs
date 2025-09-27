@@ -8,12 +8,14 @@ public class Torpedo : MonoBehaviour, IReleasable, IInteractable
 
     private CollisionHandler _collisionHandler;
     private Exploder _exploder;
+
     private Vector2 _direction;
     private float _speed;
 
-    public float Damage => _damage;
-
     public event Action<IReleasable> Released;
+
+    public float Damage => _damage;
+    public CollisionHandler CollisionHandler => _collisionHandler;
 
     private void Awake()
     {
@@ -53,18 +55,6 @@ public class Torpedo : MonoBehaviour, IReleasable, IInteractable
         _direction = direction;
 
         transform.Rotate(transform.localRotation.x, rotationY, transform.localRotation.z);
-    }
-
-    public void Subscribe(Delegate _scoreCounter)
-    {
-        if (_scoreCounter is Action<IInteractable>)
-            _collisionHandler.CollisionDetected += _scoreCounter as Action<IInteractable>;
-    }
-
-    public void UnSubscribe(Delegate _scoreCounter)
-    {
-        if (_scoreCounter is Action<IInteractable>)
-            _collisionHandler.CollisionDetected -= _scoreCounter as Action<IInteractable>;
     }
 
     public void SetObjectPullExplosion(ObjectPullExplosion objectPullExplosion)
